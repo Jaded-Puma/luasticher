@@ -1,5 +1,5 @@
 # Lua Sticher
-A script to stich lua projects into a single lus file.
+A script to stich lua projects into a single lua file.
 
 # Instructions
 1. Place the python script into the root directory of lua project
